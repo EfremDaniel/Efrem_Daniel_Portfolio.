@@ -8,20 +8,30 @@ I’m now looking for an internship where I can apply what I’ve learned in a r
 
 #
 
-My portfolio page
-
 ## Checkout my github repo
 | Repository                                | Description                                                                                |
 | ----------------------------------------  | ------------------------------------------------------------------------------------------ |
-| Data visualization course               | Learned about visualization data for business to make data driven ideas                    |
-| Data modeling course                    | Learned about being able to create modeling structured data bases                          |
-| Data plattform course                   | teaching matplotlib, storytelling with data, taipy, tableu, data analysis, data processing |
-| SQL course                              | Learned the basics of SQL with the help of Duckdb and Dbeaver                              |
-| Project methodology and business acumen | Learned about how to cooperate and work in a team                                          |
-| Programming Python                    | Lerned programming python for the first time here!                                         |   
+| [Data visualization][DV]                  | Learned about visualization data for business to make data driven ideas                    |
+| [Data modeling][DB]                       | Learned about being able to create modeling structured data bases                          |
+| [Data platform][DF]                       | teaching matplotlib, storytelling with data, taipy, tableu, data analysis, data processing |
+| [SQL][SQL]                                | Learned the basics of SQL with the help of Duckdb and Dbeaver                              |   
+
+[DV]: https://github.com/EfremDaniel/Data_visualisation_Efrem
+[DB]: https://github.com/EfremDaniel/Data_modeling_Efrem_DE24
+[DF]: https://github.com/EfremDaniel/data-platforms-Efrem-Daniel-de24
+[SQL]: https://github.com/EfremDaniel/SQL_EFREM_DANIEL_DE24
 
 
 ## Here are some of my projects
-| project                             | description                                                                                                         |
-| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| [YH dashboard :bar_chart:][yh_stat] | dashboard showing KPIs for higher vocational education. The aim is for educational providers to be more data-driven |
+| Project                                         | Description                                                                                                                      |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| [A database for YrkesCo][DB_YrkesCo]           | This database project is designed to manage and organize the critical data of a fictional educational institution called YrkesCo |
+| [A dashboard for YrkesCo][Dashboard_vis]       | This project focused on creating a dashboard that visualize different statiticts for YrkesCo through a Dashboard using the powerful tool taipy |
+
+
+[DB_YrkesCo]: https://github.com/EfremDaniel/Data_modeling_Efrem_DE24/tree/main/labb
+[Dashboard_vis]: https://github.com/EfremDaniel/Data_visualisation_grupp8
+
+
+
+- ![linkedIn icon](assets/linkedIn-icon.png): LinkedIn[linkedin]
