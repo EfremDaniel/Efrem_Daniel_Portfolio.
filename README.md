@@ -8,7 +8,7 @@ I’m now looking for an internship where I can apply what I’ve learned in a r
 
 #
 
-## Checkout my github repo
+### Checkout my github repo
 | Repository                                | Description                                                                                |
 | ----------------------------------------  | ------------------------------------------------------------------------------------------ |
 | [Data visualization][DV]                  | Learned about visualization data for business to make data driven ideas                    |
@@ -22,7 +22,7 @@ I’m now looking for an internship where I can apply what I’ve learned in a r
 [SQL]: https://github.com/EfremDaniel/SQL_EFREM_DANIEL_DE24
 
 
-## Here are some of my projects
+### Here are some of my projects
 | Project                                         | Description                                                                                                                      |
 | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | [A database for YrkesCo][DB_YrkesCo]           | This database project is designed to manage and organize the critical data of a fictional educational institution called YrkesCo |
