@@ -1,6 +1,6 @@
 # My portfolio
 
-# Efrem Daniel : Data_engineer:
+# Efrem Daniel :man_technologist: 
 
 I’m a computer science student at STI, currently focusing on data engineering and data-driven development. During my studies and personal projects, I’ve gained hands-on experience with tools like Python, SQL, DuckDB, Taipy, Docker, Git, and GitHub. I enjoy working with data – from collecting and transforming it, to building simple pipelines and exploring how data can support decision-making.
 
@@ -22,7 +22,7 @@ I’m now looking for an internship where I can apply what I’ve learned in a r
 [SQL]: https://github.com/EfremDaniel/SQL_EFREM_DANIEL_DE24
 
 
-### Here are some of my projects
+### Here are some of my projects :file_folder:
 | Project                                         | Description                                                                                                                      |
 | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | [A database for YrkesCo][DB_YrkesCo]           | This database project is designed to manage and organize the critical data of a fictional educational institution called YrkesCo |
@@ -34,4 +34,8 @@ I’m now looking for an internship where I can apply what I’ve learned in a r
 
 
 
-- ![linkedIn icon](assets/linkedIn-icon.png): LinkedIn[linkedin]
+### Contact me :iphone:
+
+- ![linkedIn icon](assets/linkedIn-icon.png): [linkedin]
+
+[linkedin]: https://www.linkedin.com/in/efrem-daniel-a27846328/
