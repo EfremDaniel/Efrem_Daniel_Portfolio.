@@ -1,4 +1,4 @@
-# My portfolio
+# My Portfolio
 
 # Efrem Daniel :man_technologist: 
 
@@ -8,7 +8,7 @@ I’m now looking for an internship where I can apply what I’ve learned in a r
 
 #
 
-### Checkout my github repo
+### Checkout my github repo :test_tube:
 | Repository                                | Description                                                                                |
 | ----------------------------------------  | ------------------------------------------------------------------------------------------ |
 | [Data visualization][DV]                  | Learned about visualization data for business to make data driven ideas                    |
